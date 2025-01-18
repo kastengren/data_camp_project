@@ -5,3 +5,4 @@ This repo contains the data file used and the jupyter notebook used to do the da
 
 The data was obtained from Texas A&M University, Texas Real Estate Research Center: https://trerc.tamu.edu/data/population/?data-Country=United+States
 
+I answered the question: How did the US population change from 1970-2023? 
